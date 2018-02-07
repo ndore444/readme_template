@@ -1,31 +1,27 @@
 
-# Homework 01
-> A simple number guessing game that asks user for numbers of random integers
-and max range. Then generate random numbers based on user inputs. Asks users
-to guess numbers. Compare guess numbers to random generate numbers.
-If all guess numbers match random generate numbers, user wins. User only have 3 tries.
+# Product Name
+> Short blurb about what your product does. One to two paragraph statement about your product and what it does.
 
 ## Screenshot
 
-<img src="https://github.com/prinnpy/data_structure/blob/HW01/DataHW01.png" width="650">
+/< img src="upload image to this repo then get the entire link to put into this quote also you can change width of image, also delete the slash in the front ->" width="650">
 
 ## Language
 ```sh
-C++
+Enter language
 ```
-
 ## Files
 ```sh
-• main.cpp 
-• guess.cpp 
-• guess.h
+• file 1
+• file 2
+• file 3
 ```
 ## Development setup
 
-Download and add files to new Xcode project, then run.
+Direction of how to download and run the program
 
 ```sh
-Don't include makefile!!
+mini direction here
 ```
 
 ## Release History
@@ -34,23 +30,25 @@ Don't include makefile!!
 0.2.1
    - DONE: finished project
 0.2.0
-   - ADD: Clean up code
-   - ADD: Add print function
+   - ADD: final touches
+   - ADD: best feature ever!!
 0.1.2
-   - ADD: generate_ran, user_input, and compare_num functions
-   - CHANGE: change guess struct to guess class
+   - ADD: cool stuff
+   - CHANGE: the thing that isn't working
 0.1.0
-   - ADD: created guess struct
+   - ADD: this and that
 0.0.1
    - first commit
 ```
 
-## Let's Connect!
+## Meta
 
-Instagram: [@prinnpy](https://www.instagram.com/prinnpy)
+Instagram: [Text you want to appear](Actual Link with no quotes)
 
-Email: prinnprinyanut@gmail.com or prinn.prinyanut@ucdenver.edu
+ex: [this link go to google](https://www.google.com/)
 
-Github: [github.com/prinnpy](https://github.com/prinnpy)
+Email: yourmail@gmail.com
 
-Website: [COMING SOON!]
+Github: [your github name](github link)
+
+Website: [your website name](website link)
