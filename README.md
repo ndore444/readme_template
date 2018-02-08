@@ -43,7 +43,7 @@ mini direction here
 
 ## Meta
 
-Instagram: [Text you want to appear](Actual Link with no quotes)
+Links: [Text you want to appear](Actual Link with no quotes)
 
 ex: [this link go to google](https://www.google.com/)
 
